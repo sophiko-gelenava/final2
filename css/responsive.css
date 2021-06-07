@@ -1,0 +1,9 @@
+@media (max-width: 320px) {
+    .navbar-links {
+        display: none;
+    }
+}
+.burger-icone {
+    display: block;
+}
+
